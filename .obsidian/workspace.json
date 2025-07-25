@@ -11,20 +11,32 @@
             "id": "65d60a479b2e16f1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Labs/Lab 1 - Example/LAB 1.canvas",
-                "viewState": {
-                  "x": 85,
-                  "y": 400,
-                  "zoom": -2.056075924406089
-                }
+                "file": "Paste test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "LAB 1"
+              "icon": "lucide-file",
+              "title": "Paste test"
+            }
+          },
+          {
+            "id": "8901049c45439f33",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Labs/Lab 1 - Example/LAB 1.canvas",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LAB 1"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -116,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Labs/Lab 1 - Example/LAB 1.canvas",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LAB 1"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -145,21 +157,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Labs/Lab 1 - Example/LAB 1.canvas",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LAB 1"
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "a2930230eb315bc4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,12 +195,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65d60a479b2e16f1",
+  "active": "8901049c45439f33",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Paste test.md",
+    "Labs/Lab 1 - Example/LAB 1.canvas",
     "Labs/Lab 1 - Example/Credential list.md",
     "Labs/Lab 1 - Example/LAB 1.md",
     "Labs/Lab 1 - Example/Network 1/Buff.md",
-    "Labs/Lab 1 - Example/LAB 1.canvas",
     "zzz_templates/code-block.md",
     "Cheatsheets/Shell cheatsheet.md",
     "zzz_templates/test/test2/note.md",
@@ -191,7 +215,6 @@
     "Labs/Lab 1 - Example/Network 1/_Network 1 discovered IPs.md",
     "TODO Kanban.md",
     "Welcome.md",
-    "Paste test.md",
     "create a link.md",
     "zzz_templates/test/test2",
     "zzz_templates/test",
@@ -221,7 +244,6 @@
     "Labs/Lab 1 - Example/Network 3/Tabby.md",
     "Labs/Lab 1 - Example/Network 3",
     "Labs/Lab 1 - Example/Network 2/attachments",
-    "Labs/Lab 1 - Example/Network 2/Postman.md",
-    "Labs/Lab 1 - Example/Network 2/OpenAdmin.md"
+    "Labs/Lab 1 - Example/Network 2/Postman.md"
   ]
 }
