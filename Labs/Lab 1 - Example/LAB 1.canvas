@@ -1,0 +1,219 @@
+{
+	"edges":[
+		{
+			"fromEnd":"arrow",
+			"fromNode":"c887a6cac33a7cc2",
+			"fromSide":"right",
+			"id":"9393bcb9818bbd10",
+			"label":"shared credentials",
+			"styleAttributes":{"path":"long-dashed"},
+			"toNode":"72573fc592971e42",
+			"toSide":"left"
+		},
+		{
+			"fromNode":"d1827057f6a51d3e",
+			"fromSide":"right",
+			"id":"5e58ca7eed53c1ad",
+			"label":"cron job",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toNode":"72573fc592971e42",
+			"toSide":"right"
+		},
+		{
+			"fromNode":"d04166e5e9ed24b9",
+			"fromSide":"right",
+			"id":"4f2e1030ed334906",
+			"label":"DMZ machine",
+			"styleAttributes":{},
+			"toNode":"b7610d496b7f5adf",
+			"toSide":"left"
+		},
+		{
+			"fromNode":"e9fdb96754442a77",
+			"fromSide":"right",
+			"id":"7a8caeae814ae697",
+			"label":"double interface",
+			"styleAttributes":{"path":"dotted","pathfindingMethod":"square"},
+			"toEnd":"none",
+			"toNode":"ab788f62574ded0b",
+			"toSide":"left"
+		},
+		{
+			"fromEnd":"arrow",
+			"fromNode":"d1827057f6a51d3e",
+			"fromSide":"bottom",
+			"id":"7f86e047789e05f4",
+			"label":"double interface",
+			"styleAttributes":{"path":"dotted"},
+			"toNode":"86c50356a8efccce",
+			"toSide":"top"
+		},
+		{
+			"fromNode":"d04166e5e9ed24b9",
+			"fromSide":"bottom",
+			"id":"5b2bb03674cd6538",
+			"label":"ssh -D foo@bar ...",
+			"styleAttributes":{
+				"arrow":null,
+				"path":"short-dashed"
+			},
+			"toNode":"666398e56a7eb27e",
+			"toSide":"left"
+		}
+	],
+	"nodes":[
+		{
+			"color":"3",
+			"height":720,
+			"id":"666398e56a7eb27e",
+			"label":"Network 3",
+			"styleAttributes":{},
+			"type":"group",
+			"width":2130,
+			"x":-840,
+			"y":920
+		},
+		{
+			"color":"5",
+			"height":1360,
+			"id":"5ea77688a36a43f9",
+			"label":"Network 1",
+			"styleAttributes":{},
+			"type":"group",
+			"width":720,
+			"x":-640,
+			"y":-640
+		},
+		{
+			"color":"2",
+			"height":1360,
+			"id":"7a6da4a21013d326",
+			"label":"Network 2",
+			"styleAttributes":{},
+			"type":"group",
+			"width":700,
+			"x":320,
+			"y":-640
+		},
+		{
+			"color":"2",
+			"height":100,
+			"id":"72573fc592971e42",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"# [Postman](Network%202/Postman.md)",
+			"type":"text",
+			"width":240,
+			"x":550,
+			"y":-470
+		},
+		{
+			"color":"1",
+			"height":100,
+			"id":"d1827057f6a51d3e",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"# [OpenAdmin](Network%202/OpenAdmin.md)",
+			"type":"text",
+			"width":260,
+			"x":550,
+			"y":350
+		},
+		{
+			"color":"4",
+			"height":120,
+			"id":"ab788f62574ded0b",
+			"styleAttributes":{},
+			"text":"# [Buff](Network%201/Buff.md)",
+			"type":"text",
+			"width":260,
+			"x":340,
+			"y":-60
+		},
+		{
+			"file":"Labs/Lab 1 - Example/Network 1/_Network 1 discovered IPs.md",
+			"height":200,
+			"id":"7010c9c9b5862095",
+			"styleAttributes":{},
+			"type":"file",
+			"width":460,
+			"x":-380,
+			"y":-840
+		},
+		{
+			"color":"1",
+			"file":"Labs/Lab 1 - Example/Network 3/Tabby.md",
+			"height":400,
+			"id":"2d9ffd18998632f9",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-590,
+			"y":1080
+		},
+		{
+			"color":"1",
+			"file":"Labs/Lab 1 - Example/Network 3/Traceback.md",
+			"height":400,
+			"id":"18b4403b0e055c7e",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":30,
+			"y":1080
+		},
+		{
+			"color":"1",
+			"height":100,
+			"id":"86c50356a8efccce",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"# [OpenAdmin](Network%202/OpenAdmin.md)",
+			"type":"text",
+			"width":260,
+			"x":690,
+			"y":1080
+		},
+		{
+			"color":"2",
+			"file":"Labs/Lab 1 - Example/Network 1/Legacy.md",
+			"height":280,
+			"id":"c887a6cac33a7cc2",
+			"styleAttributes":{},
+			"type":"file",
+			"width":500,
+			"x":-530,
+			"y":-560
+		},
+		{
+			"color":"4",
+			"file":"Labs/Lab 1 - Example/Network 1/Buff.md",
+			"height":360,
+			"id":"e9fdb96754442a77",
+			"styleAttributes":{},
+			"type":"file",
+			"width":500,
+			"x":-530,
+			"y":-220
+		},
+		{
+			"color":"4",
+			"file":"Labs/Lab 1 - Example/Network 1/Writeup.md",
+			"height":400,
+			"id":"b7610d496b7f5adf",
+			"styleAttributes":{},
+			"type":"file",
+			"width":500,
+			"x":-530,
+			"y":200
+		},
+		{
+			"color":"6",
+			"height":140,
+			"id":"d04166e5e9ed24b9",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"# Attacker machine",
+			"type":"text",
+			"width":280,
+			"x":-1120,
+			"y":-630
+		}
+	]
+}

