@@ -11,10 +11,14 @@
             "id": "b759b35860d5c2dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Information gathering/tools/NMAP.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "NMAP"
             }
           }
         ]
@@ -146,13 +150,13 @@
             }
           },
           {
-            "id": "a2930230eb315bc4",
+            "id": "8576bbdc3bf316a8",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -173,11 +177,17 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "71511c7049876051",
+  "active": "b759b35860d5c2dd",
   "lastOpenFiles": [
+    "Information gathering/tools/NMAP.md",
+    "Information gathering/tools",
+    "Untitled",
+    "Information gathering/Host Discovery",
     "English Words.md",
     "Post-Exploitation",
     "Untitled 3",
@@ -190,8 +200,6 @@
     "Templates/TODO Kanban.md",
     "Information gathering/Untitled.md",
     "Information gathering/Service enum",
-    "Information gathering",
-    "Templates",
     "Templates/Paste test.md",
     "Templates/Labs/Lab 1 - Example/LAB 1.canvas",
     "Templates/Labs/Lab 1 - Example/Credential list.md",
@@ -208,7 +216,6 @@
     "Templates/Labs/Lab 1 - Example/Network 1/_Network 1 discovered IPs.md",
     "Welcome.md",
     "create a link.md",
-    "zzz_templates/test/test2",
     "Templates/zzz_templates/HTB-challenge.md",
     "Templates/Labs/Lab 2 - Vuln. Research/scans/semgrep-php.md",
     "Templates/Labs/Lab 2 - Vuln. Research/scans/semgrep-auto.md",

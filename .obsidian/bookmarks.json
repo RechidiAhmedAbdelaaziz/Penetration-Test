@@ -7,14 +7,7 @@
         {
           "type": "group",
           "ctime": 1753524502181,
-          "items": [
-            {
-              "type": "group",
-              "ctime": 1753524631960,
-              "items": [],
-              "title": "Service enum"
-            }
-          ],
+          "items": [],
           "title": "Information gathering"
         },
         {
