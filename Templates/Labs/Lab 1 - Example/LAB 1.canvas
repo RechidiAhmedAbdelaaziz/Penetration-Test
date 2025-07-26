@@ -129,7 +129,7 @@
 			"y":-60
 		},
 		{
-			"file":"Labs/Lab 1 - Example/Network 1/_Network 1 discovered IPs.md",
+			"file":"Templates/Labs/Lab 1 - Example/Network 1/_Network 1 discovered IPs.md",
 			"height":200,
 			"id":"7010c9c9b5862095",
 			"styleAttributes":{},
@@ -140,7 +140,7 @@
 		},
 		{
 			"color":"1",
-			"file":"Labs/Lab 1 - Example/Network 3/Tabby.md",
+			"file":"Templates/Labs/Lab 1 - Example/Network 3/Tabby.md",
 			"height":400,
 			"id":"2d9ffd18998632f9",
 			"styleAttributes":{},
@@ -151,7 +151,7 @@
 		},
 		{
 			"color":"1",
-			"file":"Labs/Lab 1 - Example/Network 3/Traceback.md",
+			"file":"Templates/Labs/Lab 1 - Example/Network 3/Traceback.md",
 			"height":400,
 			"id":"18b4403b0e055c7e",
 			"styleAttributes":{},
@@ -173,7 +173,7 @@
 		},
 		{
 			"color":"2",
-			"file":"Labs/Lab 1 - Example/Network 1/Legacy.md",
+			"file":"Templates/Labs/Lab 1 - Example/Network 1/Legacy.md",
 			"height":280,
 			"id":"c887a6cac33a7cc2",
 			"styleAttributes":{},
@@ -184,7 +184,7 @@
 		},
 		{
 			"color":"4",
-			"file":"Labs/Lab 1 - Example/Network 1/Buff.md",
+			"file":"Templates/Labs/Lab 1 - Example/Network 1/Buff.md",
 			"height":360,
 			"id":"e9fdb96754442a77",
 			"styleAttributes":{},
@@ -195,7 +195,7 @@
 		},
 		{
 			"color":"4",
-			"file":"Labs/Lab 1 - Example/Network 1/Writeup.md",
+			"file":"Templates/Labs/Lab 1 - Example/Network 1/Writeup.md",
 			"height":400,
 			"id":"b7610d496b7f5adf",
 			"styleAttributes":{},
