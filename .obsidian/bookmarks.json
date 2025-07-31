@@ -48,6 +48,12 @@
           "title": "Templates"
         },
         {
+          "type": "group",
+          "ctime": 1753524502181,
+          "items": [],
+          "title": "Tricks"
+        },
+        {
           "type": "file",
           "ctime": 1753524502181,
           "path": "English Words.md",

@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "NMAP"
             }
+          },
+          {
+            "id": "c0a0e20e2e08dae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tricks/NMAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NMAP"
+            }
+          },
+          {
+            "id": "3a903db741bca03b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English words.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "English words"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,30 +205,32 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
       "custom-sort:Toggle custom sorting": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b759b35860d5c2dd",
+  "active": "c0a0e20e2e08dae5",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Tricks/NMAP.md",
     "Information gathering/tools/NMAP.md",
-    "Information gathering/tools",
-    "Untitled",
-    "Information gathering/Host Discovery",
+    "Tricks/Untitled",
+    "Tricks",
+    "LEARN/Unconfirmed 437394.~",
+    "LEARN/academy-regular.ovpn",
+    "LEARN",
+    "English words.md",
     "English Words.md",
+    "Excalidraw/Drawing 2025-07-29 10.08.11.excalidraw.md",
+    "Excalidraw",
+    "Information gathering/tools",
+    "Information gathering/Host Discovery",
     "Post-Exploitation",
     "Untitled 3",
-    "Lateral Movement",
-    "Exploitation",
-    "Pre-Exploitation",
     "Information gathering/Service enum/Nmap.md",
-    "English",
     "Templates/zzz_templates/Link test.md",
     "Templates/TODO Kanban.md",
     "Information gathering/Untitled.md",
-    "Information gathering/Service enum",
     "Templates/Paste test.md",
     "Templates/Labs/Lab 1 - Example/LAB 1.canvas",
     "Templates/Labs/Lab 1 - Example/Credential list.md",
@@ -217,16 +248,12 @@
     "Welcome.md",
     "create a link.md",
     "Templates/zzz_templates/HTB-challenge.md",
-    "Templates/Labs/Lab 2 - Vuln. Research/scans/semgrep-php.md",
-    "Templates/Labs/Lab 2 - Vuln. Research/scans/semgrep-auto.md",
-    "Templates/Labs/Lab 2 - Vuln. Research/scans/opencart-regexes.md",
     "Templates/Labs/Lab 2 - Vuln. Research/attachments/xss_CVE-2020-13980.png",
     "Templates/Labs/Lab 2 - Vuln. Research/attachments/phpmyinfo.png",
     "Templates/Labs/Lab 2 - Vuln. Research/attachments/phpinfo-admin.png",
     "Templates/Labs/Lab 2 - Vuln. Research/attachments/path-traversal_security-storage.png",
     "Templates/Labs/Lab 2 - Vuln. Research/attachments/info-disclosure.png",
     "Templates/Labs/Lab 2 - Vuln. Research/attachments/email.png",
-    "Templates/Labs/Lab 2 - Vuln. Research/opencart - CVE-2023-47444.md",
     "Templates/Labs/Lab 2 - Vuln. Research/OpenCart 4.0.2.3.canvas",
     "Templates/Labs/Lab 1 - Example/Network 3/attachments/traceback.jpeg",
     "Templates/Labs/Lab 1 - Example/Network 3/attachments/tabby.png",

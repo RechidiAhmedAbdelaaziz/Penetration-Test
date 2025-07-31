@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlignCenter",
       "LiArrowBigRight",
       "LiBadgeInfo"
     ],
@@ -50,5 +51,6 @@
   "Lateral Movement": {
     "iconName": "LiArrowBigRight",
     "iconColor": "#00eeff"
-  }
+  },
+  "Tricks": "LiAlignCenter"
 }
