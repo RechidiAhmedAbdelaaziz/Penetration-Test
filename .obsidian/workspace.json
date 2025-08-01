@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information gathering/Infrastructure Based Enumeration/Cloud Resources.md",
+                "file": "Information gathering/Infrastructure Based Enumeration/Staff Enumeration.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Resources"
+              "title": "Staff Enumeration"
             }
           },
           {
@@ -211,10 +211,10 @@
   },
   "active": "c0a0e20e2e08dae5",
   "lastOpenFiles": [
-    "Information gathering/Infrastructure Based Enumeration/Staff Enumeration.md",
-    "Information gathering/Infrastructure Based Enumeration/staff.md",
     "Information gathering/Infrastructure Based Enumeration/Domain Information.md",
     "Information gathering/Infrastructure Based Enumeration/Cloud Resources.md",
+    "Information gathering/Infrastructure Based Enumeration/Staff Enumeration.md",
+    "Information gathering/Infrastructure Based Enumeration/staff.md",
     "Information gathering/Infrastructure Based Enumeration/cloud.md",
     "English words.md",
     "Information gathering/Infrastructure Based Enumeration",
