@@ -211,6 +211,8 @@
   },
   "active": "c0a0e20e2e08dae5",
   "lastOpenFiles": [
+    "Information gathering/Infrastructure Based Enumeration/Staff Enumeration.md",
+    "Information gathering/Infrastructure Based Enumeration/staff.md",
     "Information gathering/Infrastructure Based Enumeration/Domain Information.md",
     "Information gathering/Infrastructure Based Enumeration/Cloud Resources.md",
     "Information gathering/Infrastructure Based Enumeration/cloud.md",
@@ -246,8 +248,6 @@
     "Templates/Labs/Lab 1 - Example/Credential list.md",
     "Templates/Labs/Lab 1 - Example/LAB 1.md",
     "Templates/Labs/Lab 1 - Example/Network 1/Buff.md",
-    "Templates/zzz_templates/code-block.md",
-    "Templates/Cheatsheets/Shell cheatsheet.md",
     "Templates/Labs/Lab 2 - Vuln. Research/attachments/xss_CVE-2020-13980.png",
     "Templates/Labs/Lab 2 - Vuln. Research/attachments/phpmyinfo.png",
     "Templates/Labs/Lab 2 - Vuln. Research/attachments/phpinfo-admin.png",
