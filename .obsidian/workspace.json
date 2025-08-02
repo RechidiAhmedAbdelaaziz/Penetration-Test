@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information gathering/Infrastructure Based Enumeration/Staff Enumeration.md",
+                "file": "note-taking-prompt.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Staff Enumeration"
+              "title": "note-taking-prompt"
             }
           },
           {
@@ -211,9 +211,12 @@
   },
   "active": "c0a0e20e2e08dae5",
   "lastOpenFiles": [
+    "Information gathering/Services/FTP & TFTP.md",
+    "note-taking-prompt.md",
+    "Information gathering/Infrastructure Based Enumeration/Staff Enumeration.md",
+    "Information gathering/Services",
     "Information gathering/Infrastructure Based Enumeration/Domain Information.md",
     "Information gathering/Infrastructure Based Enumeration/Cloud Resources.md",
-    "Information gathering/Infrastructure Based Enumeration/Staff Enumeration.md",
     "Information gathering/Infrastructure Based Enumeration/staff.md",
     "Information gathering/Infrastructure Based Enumeration/cloud.md",
     "English words.md",
@@ -238,7 +241,6 @@
     "Excalidraw/Drawing 2025-07-29 10.08.11.excalidraw.md",
     "Excalidraw",
     "Information gathering/tools",
-    "Information gathering/Host Discovery",
     "Information gathering/Service enum/Nmap.md",
     "Templates/zzz_templates/Link test.md",
     "Templates/TODO Kanban.md",
@@ -246,8 +248,6 @@
     "Templates/Paste test.md",
     "Templates/Labs/Lab 1 - Example/LAB 1.canvas",
     "Templates/Labs/Lab 1 - Example/Credential list.md",
-    "Templates/Labs/Lab 1 - Example/LAB 1.md",
-    "Templates/Labs/Lab 1 - Example/Network 1/Buff.md",
     "Templates/Labs/Lab 2 - Vuln. Research/attachments/xss_CVE-2020-13980.png",
     "Templates/Labs/Lab 2 - Vuln. Research/attachments/phpmyinfo.png",
     "Templates/Labs/Lab 2 - Vuln. Research/attachments/phpinfo-admin.png",
