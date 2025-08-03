@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information gathering/Services/SMB.md",
+                "file": "Information gathering/Services/DNS.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMB"
+              "title": "DNS"
             }
           },
           {
@@ -211,8 +211,11 @@
   },
   "active": "c0a0e20e2e08dae5",
   "lastOpenFiles": [
-    "Information gathering/Services/FTP & TFTP.md",
     "Information gathering/Services/SMB.md",
+    "Information gathering/tools/NMAP/Firewall and IDS-IPS Evasion.md",
+    "Information gathering/tools/NMAP/Host Discovery .md",
+    "Information gathering/tools/NMAP/Performance.md",
+    "Information gathering/Services/FTP & TFTP.md",
     "note-taking-prompt.md",
     "Information gathering/Infrastructure Based Enumeration/Staff Enumeration.md",
     "Information gathering/Services",
@@ -222,9 +225,6 @@
     "Information gathering/Infrastructure Based Enumeration/cloud.md",
     "English words.md",
     "Information gathering/Infrastructure Based Enumeration",
-    "Information gathering/tools/NMAP/Firewall and IDS-IPS Evasion.md",
-    "Information gathering/tools/NMAP/Host Discovery .md",
-    "Information gathering/tools/NMAP/Performance.md",
     "Tricks/NMAP.md",
     "Information gathering/tools/NMAP/NMAP.md",
     "Information gathering/tools/NMAP-performance.md",
